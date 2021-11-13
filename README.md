@@ -4,7 +4,7 @@ A Django REST Api that simulates a paid parking lot.
 ### API Link
 ```https://rest-api-parking-lot.herokuapp.com/```
 
-### How to Run
+### How to Run on Local Machine, but should already have access with pulic api link
 1) ```git clone https://github.com/vuongdennis/parking-lot.git```
 2) ```cd parking-lot```
 3) Mac: source env/bin/activate
